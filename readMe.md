@@ -1,4 +1,6 @@
-# ![](https://slackmojis.com/emojis/23071-welcome/image/1680405921/welcome.gif) Hey there, I'm Paul Emas
+# ![](https://emojis.slackmojis.com/emojis/images/1643510748/38625/welcome.gif?1643510748) Hey there, I'm Paul Emas
+
+https://slackmojis.com/emojis/3643-cool-doge/download
 
 ## Frontend Engineer
 
